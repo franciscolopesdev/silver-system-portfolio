@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="260" viewBox="0 0 1500 260">
+<rect width="1500" height="260" rx="28" fill="#0b0d10"/>
+<text x="50" y="48" fill="#ffffff" font-family="Arial" font-size="24" font-weight="700">Arquitetura de alto nível</text>
+<rect x="50" y="92" width="240" height="100" rx="20" fill="#131821" stroke="#f97316" stroke-opacity=".7"/>
+<text x="170.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Celulares / PC</text>
+<line x1="298" y1="142" x2="327" y2="142" stroke="#f97316" stroke-width="3" opacity=".8"/>
+<path d="M 319 135 L 327 142 L 319 149" fill="none" stroke="#f97316" stroke-width="3"/>
+<rect x="335" y="92" width="240" height="100" rx="20" fill="#131821" stroke="#f97316" stroke-opacity=".7"/>
+<text x="455.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Wi‑Fi local</text>
+<line x1="583" y1="142" x2="612" y2="142" stroke="#f97316" stroke-width="3" opacity=".8"/>
+<path d="M 604 135 L 612 142 L 604 149" fill="none" stroke="#f97316" stroke-width="3"/>
+<rect x="620" y="92" width="240" height="100" rx="20" fill="#131821" stroke="#f97316" stroke-opacity=".7"/>
+<text x="740.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Node + Express + Socket.IO</text>
+<line x1="868" y1="142" x2="897" y2="142" stroke="#f97316" stroke-width="3" opacity=".8"/>
+<path d="M 889 135 L 897 142 L 889 149" fill="none" stroke="#f97316" stroke-width="3"/>
+<rect x="905" y="92" width="240" height="100" rx="20" fill="#131821" stroke="#f97316" stroke-opacity=".7"/>
+<text x="1025.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">SQLite</text>
+<line x1="1153" y1="142" x2="1182" y2="142" stroke="#f97316" stroke-width="3" opacity=".8"/>
+<path d="M 1174 135 L 1182 142 L 1174 149" fill="none" stroke="#f97316" stroke-width="3"/>
+<rect x="1190" y="92" width="240" height="100" rx="20" fill="#131821" stroke="#f97316" stroke-opacity=".7"/>
+<text x="1310.0" y="151" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="700">Impressoras ESC/POS</text>
+</svg>
