@@ -71,7 +71,7 @@ Validação de entradas, queries parametrizadas, proteção contra XSS e separa�
 
 ## Screenshots
 
-<img src="assets/screenshots/dashboard.png" alt="Silver System POS — salão de mesas" width="100%"/>
+<img src="assets/screenshots/dashboard.webp" alt="Silver System POS — salão de mesas" width="100%"/>
 
 ## Privacidade e confidencialidade
 
