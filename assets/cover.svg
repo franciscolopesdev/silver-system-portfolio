@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+  <rect width="1600" height="700" fill="#0b0d10"/>
+  <circle cx="1350" cy="40" r="360" fill="#f97316" opacity=".12"/>
+  <circle cx="1480" cy="620" r="280" fill="#f97316" opacity=".08"/>
+  <rect x="110" y="110" width="72" height="8" rx="4" fill="#f97316"/>
+  <text x="110" y="245" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">Silver System POS</text>
+  <text x="110" y="325" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="30">PDV para comandas, múltiplos dispositivos, rede local e impressão por setor.</text>
+  <g transform="translate(110,420)">
+    <rect width="390" height="72" rx="18" fill="#f97316" opacity=".16"/>
+    <text x="28" y="46" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">FRANCISCO LOPES • FULL STACK</text>
+  </g>
+  <text x="110" y="610" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">Arquitetura • Produto • UX • Implementação • Testes</text>
+</svg>
