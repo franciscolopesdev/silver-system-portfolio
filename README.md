@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logoColor=5FA04E) ![Socket.IO](https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logoColor=ffffff) ![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logoColor=60a5fa) ![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logoColor=2EAD33)
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=ffffff" alt="Socket.IO"/>
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=60A5FA" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"/>
 </p>
 
 > **Status:** Projeto comercial — documentação pública sem código-fonte de produção.
